@@ -1,0 +1,92 @@
+[
+  {
+    "model": "PT-NC120D3-N(D2)",
+    "title": "2 MP Fixed Bullet Network Camera",
+    "specs": {
+      "resolution": "1920 x 1080",
+      "lens_options": [
+        "2.8 mm",
+        "4 mm"
+      ],
+      "ir_range": "Up to 30 m",
+      "protection": "IP67",
+      "wdr": "Digital WDR"
+    },
+    "evidence": {
+      "filename": "PT-NC120D3-N(D2).pdf",
+      "sha256": "a7b59c1199c266e10c01533455c463c3aa4aac7e169ab62bc676502ad04527d4",
+      "pages": {
+        "title": 1,
+        "resolution": 2,
+        "lens_options": 2,
+        "ir_range": 2,
+        "protection": 3,
+        "wdr": 3
+      },
+      "review_note": "Selected fields checked against extracted text and rendered specification pages on 2026-10-17. Datasheet states specifications may change. No price or stock data supplied."
+    },
+    "verified": true,
+    "price_paise": 250000,
+    "price_kind": "demo"
+  },
+  {
+    "model": "PT-NC140D3-N(D2)",
+    "title": "4 MP Fixed Bullet Network Camera",
+    "specs": {
+      "resolution": "2560 x 1440",
+      "lens_options": [
+        "2.8 mm",
+        "4 mm"
+      ],
+      "ir_range": "Up to 30 m",
+      "protection": "IP67",
+      "wdr": "120 dB"
+    },
+    "evidence": {
+      "filename": "PT-NC140D3-N(D2).pdf",
+      "sha256": "3812a544540f5e082acad713995f16ce9a38f0ad8ce5a945a4018d2dd9aa0fbc",
+      "pages": {
+        "title": 1,
+        "resolution": 2,
+        "lens_options": 2,
+        "ir_range": 2,
+        "protection": 3,
+        "wdr": 3
+      },
+      "review_note": "Selected fields checked against extracted text and rendered specification pages on 2026-10-17. Datasheet states specifications may change. No price or stock data supplied."
+    },
+    "verified": true,
+    "price_paise": 350000,
+    "price_kind": "demo"
+  },
+  {
+    "model": "PT-NC320P1-N(D2)",
+    "title": "2 MP Fixed Bullet Network Camera",
+    "specs": {
+      "resolution": "1920 x 1080",
+      "lens_options": [
+        "2.8 mm",
+        "4 mm"
+      ],
+      "ir_range": "Up to 30 m",
+      "protection": "IP67",
+      "wdr": "Digital WDR"
+    },
+    "evidence": {
+      "filename": "PT-NC320P1-N(D2).pdf",
+      "sha256": "93faf32eae64ff4c36502c02dfa12df4f99bea03ac96c9ff16198875d818e17b",
+      "pages": {
+        "title": 1,
+        "resolution": 2,
+        "lens_options": 2,
+        "ir_range": 2,
+        "protection": 3,
+        "wdr": 3
+      },
+      "review_note": "Selected fields checked against extracted text and rendered specification pages on 2026-10-17. Datasheet states specifications may change. No price or stock data supplied."
+    },
+    "verified": true,
+    "price_paise": 300000,
+    "price_kind": "demo"
+  }
+]

@@ -1,0 +1,535 @@
+{
+  "archive_filename": "OneDrive_1_25-11-2025.zip",
+  "archive_sha256": "f64300f609b902c9376bd24c0f645413317d2fe80c49eaa30d570df4b59a9e9e",
+  "pdf_count": 66,
+  "files": [
+    {
+      "filename": "PT-NC120D3-N(D2).pdf",
+      "sha256": "a7b59c1199c266e10c01533455c463c3aa4aac7e169ab62bc676502ad04527d4",
+      "bytes": 314778,
+      "pages": 4,
+      "extracted_characters": 3755,
+      "catalogue_review": "selected fields reviewed"
+    },
+    {
+      "filename": "PT-NC120D3-WNM(D2).pdf",
+      "sha256": "bfbd37b743d419e38f77b3124341988c47b1377a230a68322429e14d4c63f38e",
+      "bytes": 235934,
+      "pages": 4,
+      "extracted_characters": 4151,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC120D7-WNMS_AW(D2).pdf",
+      "sha256": "a3f62bd9a013d51f9a8c207fd62d274e7da108366d6637ab563a8d674666b905",
+      "bytes": 339996,
+      "pages": 4,
+      "extracted_characters": 4703,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC123D3-N(D2).pdf",
+      "sha256": "64ea8d61a1ac846548e52bfa0ef8ddfc1a12227a4c01b95950f40bb128893717",
+      "bytes": 765300,
+      "pages": 4,
+      "extracted_characters": 3735,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC123D3-WNM(D2).pdf",
+      "sha256": "e7c5ea18e499b000434c615024d28fad3b842e5dcb2007bd6aed0e0101cde560",
+      "bytes": 277554,
+      "pages": 4,
+      "extracted_characters": 4139,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC123D7-WNMS_AW(D2).pdf",
+      "sha256": "54ef2e6bda56157435c6a28cce832337c6baac123ae90d815a091ddb324fabbc",
+      "bytes": 361347,
+      "pages": 4,
+      "extracted_characters": 4656,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC126D3-WNRAM(D2).pdf",
+      "sha256": "3bf7536c094f186068a9b8c6033c486594c0833dda7cec85c434a8dc834f05cb",
+      "bytes": 321264,
+      "pages": 4,
+      "extracted_characters": 4861,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC127D3-WNRAM(D2).pdf",
+      "sha256": "90d397dfd8960d4bf7a7e9d90e8cef5a1b5532305546b83a9fc0e8e85e26e9bf",
+      "bytes": 254854,
+      "pages": 4,
+      "extracted_characters": 4872,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC140D3-N(D2).pdf",
+      "sha256": "3812a544540f5e082acad713995f16ce9a38f0ad8ce5a945a4018d2dd9aa0fbc",
+      "bytes": 222703,
+      "pages": 4,
+      "extracted_characters": 3828,
+      "catalogue_review": "selected fields reviewed"
+    },
+    {
+      "filename": "PT-NC140D3-WNM(D2).pdf",
+      "sha256": "c9a62b69bb35382c602cfb11b970d3fa4286a91026ff48c527d32c67d94ebfd3",
+      "bytes": 265442,
+      "pages": 4,
+      "extracted_characters": 4226,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC140D7-WNMS_AW(D2).pdf",
+      "sha256": "722b119c9b23351ea821bfa41e2532624fd011f9b658c9810ccdde226785076d",
+      "bytes": 299867,
+      "pages": 4,
+      "extracted_characters": 4809,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC143D3-N(D2).pdf",
+      "sha256": "adaffde4a0b261a08827a87822b97e4c917f892a9c2a6b3bb9f0d1473f150381",
+      "bytes": 290431,
+      "pages": 4,
+      "extracted_characters": 3783,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC143D3-WNM(D2).pdf",
+      "sha256": "298651ac41e6af3bacea0894c158bda67c834ddcea39a477d0839302f36b8f18",
+      "bytes": 303324,
+      "pages": 4,
+      "extracted_characters": 4176,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC143D7-WNMS_AW(D2).pdf",
+      "sha256": "8be3331e75d5af5eb4a6d3589ed513e6503799a66ec9ca47e0c4613dbdc3b2ef",
+      "bytes": 325169,
+      "pages": 4,
+      "extracted_characters": 4750,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC146D3-WNRAM(D2).pdf",
+      "sha256": "5e79bd8044e8daacd13f7250810e94ed433a5cdf1f98ca059e8376f60eb26b36",
+      "bytes": 273124,
+      "pages": 4,
+      "extracted_characters": 4947,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC147D3-WNRAM(D2).pdf",
+      "sha256": "b010899d966290eaf85c99a37de674861c1d5b3f542e571935b7d3ed9c571a37",
+      "bytes": 260842,
+      "pages": 4,
+      "extracted_characters": 4947,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC160D3-WNM(D2).pdf",
+      "sha256": "02b7031dcab59982e0d7d8fb7a8054a264f7bb41ac54dde6ed144c84b6d27593",
+      "bytes": 542874,
+      "pages": 4,
+      "extracted_characters": 4147,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC160D3-WNMS_AW(D2).pdf",
+      "sha256": "4fffec8d629852b20a991013cc27b3941ba85a67121be3907eff9ae67419ee43",
+      "bytes": 479173,
+      "pages": 4,
+      "extracted_characters": 4602,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC163D3-WNM(D2).pdf",
+      "sha256": "2315c2a0eb6b44c9a3e96cf8c099ee21141724a4fce13ed4769748010f0a8c00",
+      "bytes": 537902,
+      "pages": 4,
+      "extracted_characters": 4136,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC163D3-WNMS_AW(D2).pdf",
+      "sha256": "c5a5ede39c77c71b23eee7ce087a5d0d9bc2056e282c6f04f8847c0ec92fe474",
+      "bytes": 232122,
+      "pages": 4,
+      "extracted_characters": 4696,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC320P1-N(D2).pdf",
+      "sha256": "93faf32eae64ff4c36502c02dfa12df4f99bea03ac96c9ff16198875d818e17b",
+      "bytes": 344359,
+      "pages": 4,
+      "extracted_characters": 3844,
+      "catalogue_review": "selected fields reviewed"
+    },
+    {
+      "filename": "PT-NC320P1-WNM(D2).pdf",
+      "sha256": "b054b75b254f94ce8e867811a3477d1aeb56f31e200e4934cbc4c80c343f0eb3",
+      "bytes": 277240,
+      "pages": 4,
+      "extracted_characters": 4496,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC320P1-WNMS(D2).pdf",
+      "sha256": "412c1cf644ea13dd4e1227fc4efeca83971f844419bd6ad6a2d15ee5162c89f9",
+      "bytes": 309449,
+      "pages": 4,
+      "extracted_characters": 4672,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC320P3-WNM(D2).pdf",
+      "sha256": "b7c2cfcabec8c397b079f28dafebe4019eb091c7f7168e14c6659d601637cf38",
+      "bytes": 279832,
+      "pages": 4,
+      "extracted_characters": 6046,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC320P7-WNMS_AW(D2).pdf",
+      "sha256": "cdb1ec1ba141da524581e0cbf06b279309bfe8b71260ad0bee2fdcf51ecc96ea",
+      "bytes": 306606,
+      "pages": 4,
+      "extracted_characters": 4851,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC321P1-NAS(D2).pdf",
+      "sha256": "af7b45739647adef0c4dbebde4ffa8aeb206f0f90d43953eb1681dfb574a44c4",
+      "bytes": 330903,
+      "pages": 4,
+      "extracted_characters": 4993,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC321P1-WNAMS(D2).pdf",
+      "sha256": "ec46ee8a80478905b260eeb8b395cf709705e608bd6105b453a523e6e681e1af",
+      "bytes": 338547,
+      "pages": 4,
+      "extracted_characters": 5157,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC321P3-WNAM(D2).pdf",
+      "sha256": "b8ef7049c11c29c165ab01bcdb5d85a036b37e94402a50c6ad669a48b25fd74c",
+      "bytes": 753408,
+      "pages": 5,
+      "extracted_characters": 6548,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC323P1-N(D2).pdf",
+      "sha256": "535fb4062f6768f5de5baf051404cefff9e2a2c26941e1e9f21f831dcb3a71b0",
+      "bytes": 587708,
+      "pages": 4,
+      "extracted_characters": 3797,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC323P1-WNM(D2).pdf",
+      "sha256": "f2fe05bf0de0448156cf4fe3d4994245208d2771b7a936e1ab973f7cac94d34c",
+      "bytes": 542266,
+      "pages": 4,
+      "extracted_characters": 4483,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC323P1-WNMS(D2).pdf",
+      "sha256": "7c0205a49a886dc4a9f1483f21c431852862ca3c0345c0436a39d117051356c0",
+      "bytes": 255935,
+      "pages": 4,
+      "extracted_characters": 4615,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC323P7-WNMS_AW(D2).pdf",
+      "sha256": "39f4b5996bf8b18bccb0067ef5b4b582d937c73fbfc3b0158133302c737e5ce7",
+      "bytes": 324648,
+      "pages": 4,
+      "extracted_characters": 4851,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC326P1-WNRAM(D2).pdf",
+      "sha256": "5ab6bf32395179c52f64cfd7e037cc1014e94bfdfd45becd52bdccf988d2fac3",
+      "bytes": 327589,
+      "pages": 4,
+      "extracted_characters": 5062,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC326P3-WNRAM(D2).pdf",
+      "sha256": "962c73d9cc22c04a8c289236244eaf81e951fbd83b4781521b4a4e198ec6e4d9",
+      "bytes": 655261,
+      "pages": 5,
+      "extracted_characters": 6540,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC327P1-WNRAM(D2).pdf",
+      "sha256": "65ac6a1913b367022c586211703117380c1b87a5371ad24d1fc55e0ed803a9c0",
+      "bytes": 336357,
+      "pages": 4,
+      "extracted_characters": 5086,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC327P3-WNRAM(D2).pdf",
+      "sha256": "1eee5a4b771451751bc45ab83fcfd5e72152e812e220fb878adbccd3eba68a8a",
+      "bytes": 576135,
+      "pages": 5,
+      "extracted_characters": 6518,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC32TP3-4NAM(D2).pdf",
+      "sha256": "358c7214c1a26a95c33a8f43558f782349247b2d90a48e47c3a2c2fd44bd7d9c",
+      "bytes": 495170,
+      "pages": 5,
+      "extracted_characters": 6319,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC340P1-N(D2).pdf",
+      "sha256": "a6e022e42d04e7e7444dfa5dd046888a9f28644acd43e5b524cdfd50f5c6b5fc",
+      "bytes": 305569,
+      "pages": 4,
+      "extracted_characters": 3895,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC340P1-WNM(D2).pdf",
+      "sha256": "0a21c0cc1f95094828122a97e952cb68c5e490cf34419b10be27f94019d997b2",
+      "bytes": 407698,
+      "pages": 4,
+      "extracted_characters": 4773,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC340P1-WNMS(D2).pdf",
+      "sha256": "d0a43ab154b8e58b5b82cc49a8c37c27b0a3cfc3a30c90348b42a5dd95ca473a",
+      "bytes": 402535,
+      "pages": 4,
+      "extracted_characters": 4977,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC340P3-WNM(D2).pdf",
+      "sha256": "47812ef545ab8810d420b0e9d50bc6c19c001b1e6ca52e297d3a169a0cf833bc",
+      "bytes": 233310,
+      "pages": 4,
+      "extracted_characters": 6095,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC340P7-WNMS_AW(D2).pdf",
+      "sha256": "056f8e5c837317d12974cd993316ee5562da1d6db409bccfcbcf9e9cc2c67633",
+      "bytes": 322149,
+      "pages": 4,
+      "extracted_characters": 4953,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC341P1-WNAMS(D2).pdf",
+      "sha256": "8847398aa87c9c4c24122f89b83577efd39e7f71cf2f0cff35bfb7cc3648184b",
+      "bytes": 336098,
+      "pages": 4,
+      "extracted_characters": 5226,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC341P3-WNAM(D2).pdf",
+      "sha256": "2e227253eab352a6c86de2d5413c8bb0baeab8370514a6b1e7cdcec29b7c25ca",
+      "bytes": 802727,
+      "pages": 5,
+      "extracted_characters": 6480,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC343P1-N(D2).pdf",
+      "sha256": "7171069ffeb97607c0a5b07d64b45c22c7ccac509166a43d03903006a315f3e3",
+      "bytes": 389790,
+      "pages": 4,
+      "extracted_characters": 3897,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC343P1-WNM(D2).pdf",
+      "sha256": "12fac3bd10f6e309e982ba0840bb4b3220deb7bbffc166e9a00e4a260a8a457c",
+      "bytes": 295767,
+      "pages": 4,
+      "extracted_characters": 4582,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC343P1-WNMS(D2).pdf",
+      "sha256": "823786de44357ebc0b845bc47a5695121b90fed98d342eb0a551e3391d0c74c1",
+      "bytes": 300859,
+      "pages": 4,
+      "extracted_characters": 4736,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC343P7-WNMS_AW(D2).pdf",
+      "sha256": "5ad3312e2133ea200f24ff3490459d4c383b340fe6c1c0547a5fe8aada99a89e",
+      "bytes": 329970,
+      "pages": 4,
+      "extracted_characters": 4917,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC346P1-WNRAM(D2).pdf",
+      "sha256": "d0f76a444fe931ee988c1bd6d7740b5b3e634e59c72c7b37a559c858afdf6d49",
+      "bytes": 329222,
+      "pages": 4,
+      "extracted_characters": 5167,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC346P3-WNRAM(D2).pdf",
+      "sha256": "e702e48e54987649b99f692a8d934793b9e0982d034bd3f8ab60504c34575f5a",
+      "bytes": 899160,
+      "pages": 5,
+      "extracted_characters": 6586,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC347P1-WNRAM(D2).pdf",
+      "sha256": "4918926820d0e95723f8c8b0cc0d91cacd595bd62522dcae7764b3f3ba02631c",
+      "bytes": 357013,
+      "pages": 4,
+      "extracted_characters": 5156,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC347P3-WNRAM(D2).pdf",
+      "sha256": "3e99fd155a794f1781c598dd69249f49700586d2c24299e1df233d42771beb88",
+      "bytes": 531907,
+      "pages": 4,
+      "extracted_characters": 6560,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC34TP3-4NAM(D2).pdf",
+      "sha256": "98b53bbddcc3d95ce48415a34707c5331286ab26955806905b193b30d3ed0448",
+      "bytes": 690262,
+      "pages": 5,
+      "extracted_characters": 6351,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC360P1-WNM(D2E).pdf",
+      "sha256": "3f89a3783b649e5972ad817fff57312d97cdb9bdaf56031a0bb8a47931cb84f9",
+      "bytes": 423421,
+      "pages": 4,
+      "extracted_characters": 4691,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC360P1-WNMS(D2).pdf",
+      "sha256": "b4517cbdc7c8a9984e9c9179dfea42719f1ca154bcd52b02974dc9f6e1236bfd",
+      "bytes": 579083,
+      "pages": 4,
+      "extracted_characters": 4670,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC360P1-WNMS_AW(D2).pdf",
+      "sha256": "d64bdf2d830a95a65606ca3b6ecfc8ee10518ba59fb8afed3dee7ed45d029dee",
+      "bytes": 508133,
+      "pages": 4,
+      "extracted_characters": 4702,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC360P3-WNM(D2).pdf",
+      "sha256": "50f8c5a80ed5261e727d29b072deaf4fe02820a081f77126057217800616d10a",
+      "bytes": 529047,
+      "pages": 4,
+      "extracted_characters": 6130,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC361P1-WNMS(D2).pdf",
+      "sha256": "3bd838741ee1185622221d23881f0bafbaca198a9e2d0cba61f3c5c3e9101cf4",
+      "bytes": 294495,
+      "pages": 4,
+      "extracted_characters": 4837,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC361P3-WNAM(D2).pdf",
+      "sha256": "ed595bab2a03b2b3a20476e2c68b4ed3e80fa69c2148726b5f860c861073a5e5",
+      "bytes": 641101,
+      "pages": 4,
+      "extracted_characters": 6537,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC363P1-WNMS(D2).pdf",
+      "sha256": "1195375e1ac7278f257457cf6be9ce38a3dac22740793a30ebfe4c0feeb0c82f",
+      "bytes": 406607,
+      "pages": 4,
+      "extracted_characters": 4381,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC363P1-WNMS_AW(D2).pdf",
+      "sha256": "6aae9b6c0ef41866cfaf3f21c9461b71b629085902224bb2567d71757b4ea11b",
+      "bytes": 273489,
+      "pages": 4,
+      "extracted_characters": 4809,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC366P3-WNRAM(D2).pdf",
+      "sha256": "73193c9eaf1f8ebec40d2e0615b3288af51a7d165e0b5a56869fc5156ea0ec14",
+      "bytes": 639775,
+      "pages": 4,
+      "extracted_characters": 6622,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC367P1-WNRAM(D2).pdf",
+      "sha256": "9cc6af913485029ab254a8bb969e37b6a2524752a21ae4dcebc9348aee5500f7",
+      "bytes": 385477,
+      "pages": 4,
+      "extracted_characters": 5189,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC367P3-WNRAM(D2).pdf",
+      "sha256": "b8bb8a414d7c25b7bca69923fe2cab55577a3de3012fae10cda6b0dfc386a6df",
+      "bytes": 622490,
+      "pages": 5,
+      "extracted_characters": 6603,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC36TP3-4NAM(D2).pdf",
+      "sha256": "4b255713234c8c48deb78d98eb90d2864829cf6f9048e954f590b407cb75a815",
+      "bytes": 678719,
+      "pages": 5,
+      "extracted_characters": 6398,
+      "catalogue_review": "pending"
+    },
+    {
+      "filename": "PT-NC386P3-WNRAM(D2).pdf",
+      "sha256": "6600739bffba5bfb53ddc11527a7aee5036a26be73be07ba4713f168671df6b6",
+      "bytes": 535865,
+      "pages": 5,
+      "extracted_characters": 6612,
+      "catalogue_review": "pending"
+    }
+  ]
+}
